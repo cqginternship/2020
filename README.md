@@ -7,8 +7,8 @@ CQG Internship 2020
 -----|-------------|--------
 11 сен | Лекция | [Software Design](<1. Software design/Software_design.pdf>)
 18 сен | Лаба   | Задание будет выдано 18 сентября
-25 сен | Лекция | STL
-02 окт | Лаба   | STL
+25 сен | Лекция | [STL](<2. STL/STL Summary (2020).pdf>)
+02 окт | Лаба   | [STL](<2. STL/STL Task.md>)
 09 окт | Лекция | Move Semantics and Smart Pointers
 16 окт | Лаба   | Move Semantics and Smart Pointers
 23 окт | Лекция | Modern C++: lambda, bind, function
