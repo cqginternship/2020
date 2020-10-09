@@ -9,8 +9,8 @@ CQG Internship 2020
 18 сен | Лаба   | [Задачи](<1. Software Design/Задачи.md>)
 25 сен | Лекция | [STL](<2. STL/STL Summary (2020).pdf>)
 02 окт | Лаба   | [STL](<2. STL/STL Task.md>)
-09 окт | Лекция | Move Semantics and Smart Pointers
-16 окт | Лаба   | Move Semantics and Smart Pointers
+09 окт | Лекция | [Move Semantics and Smart Pointers](<3. Move Semantic, Smart Pointers/Modern C++. Move Semantic, Smart Pointers 2020.pdf>)
+16 окт | Лаба   | [Move Semantics and Smart Pointers](<3. Move Semantic, Smart Pointers/Modern C++. Move Semantic, Smart Pointers.md>)
 23 окт | Лекция | Modern C++: lambda, bind, function
 30 окт | Лаба   | Modern C++: lambda, bind, function
 06 ноя | Лекция | Debugging
