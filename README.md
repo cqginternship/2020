@@ -13,8 +13,8 @@ CQG Internship 2020
 16 окт | Лаба   | [Move Semantics and Smart Pointers](<3. Move Semantic, Smart Pointers/Modern C++. Move Semantic, Smart Pointers.md>)
 23 окт | Лекция | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++. Lambda, Bind, Function.pdf>)
 30 окт | Лаба   | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++. Lambda, Bind, Function.md>)
-06 ноя | Лекция | Debugging
-13 ноя | Лаба   | Debugging
+06 ноя | Лекция | [Debugging](<5. Debugging/Debugging.pdf>)
+13 ноя | Лаба   | [Debugging](<5. Debugging/lab>)
 20 ноя | Лекция | WinAPI+DLL
 27 ноя | Лаба   | WinAPI+DLL
 04 дек | Лекция | Multithreading
