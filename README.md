@@ -15,8 +15,8 @@ CQG Internship 2020
 30 окт | Лаба   | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++. Lambda, Bind, Function.md>)
 06 ноя | Лекция | [Debugging](<5. Debugging/Debugging.pdf>)
 13 ноя | Лаба   | [Debugging](<5. Debugging/lab>)
-20 ноя | Лекция | WinAPI+DLL
-27 ноя | Лаба   | WinAPI+DLL
+20 ноя | Лекция | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.pdf>)
+27 ноя | Лаба   | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.md>)
 04 дек | Лекция | Multithreading
 11 дек | Лаба   | Multithreading
 18 дек | Лекция | Regular expressions
