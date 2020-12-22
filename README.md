@@ -21,7 +21,7 @@ CQG Internship 2020
 11 дек | Лаба   | [Multithreading](<7. Multithreading/Multithreading.md>)
 18 дек | Лекция | [Regular expressions](<8. Regular expressions/Regular expressions.pdf>)
 25 дек | Лаба   | [Regular expressions](<8. Regular expressions/Regular expressions.md>)
-?? дек | Зачет  | Вопросы к зачету будут выложены в конце семестра
+29 дек | Зачет  | [Exam](<Exam/Questions.md>)
 
 Лекции - пятница 09:00 в аудитории 3129 (очно). Внимание! Лекции по пятницам временно проводятся в Discord.
 
